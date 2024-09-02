@@ -14,4 +14,10 @@ public class Circulo
     {
         this.Radio = radio;
     }
+
+    public double GetArea(double radio)
+    {
+        double a = Math.PI;
+        return radio * radio * a;
+    }
 }

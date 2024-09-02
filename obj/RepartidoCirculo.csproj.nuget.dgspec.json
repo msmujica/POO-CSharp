@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj": {}
+    "C:\\RepartidoCirculo\\RepartidoCirculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj": {
+    "C:\\RepartidoCirculo\\RepartidoCirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj",
+        "projectUniqueName": "C:\\RepartidoCirculo\\RepartidoCirculo.csproj",
         "projectName": "RepartidoCirculo",
-        "projectPath": "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj",
-        "packagesPath": "C:\\Users\\Estudiante UCU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\obj\\",
+        "projectPath": "C:\\RepartidoCirculo\\RepartidoCirculo.csproj",
+        "packagesPath": "C:\\Users\\cuent\\.nuget\\packages\\",
+        "outputPath": "C:\\RepartidoCirculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\cuent\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
