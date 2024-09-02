@@ -20,4 +20,10 @@ public class Circulo
         double a = Math.PI;
         return radio * radio * a;
     }
+
+    public double GetPerimetro(double perimetro)
+    {
+        double a = Math.PI;
+        return 2 * a * radio; 
+    }
 }
