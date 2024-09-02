@@ -15,15 +15,15 @@ public class Circulo
         this.Radio = radio;
     }
 
-    public double GetArea(double radio)
+    public void GetArea()
     {
         double a = Math.PI;
-        return radio * radio * a;
+        Console.WriteLine(this.Radio * this.Radio * a);
     }
 
-    public double GetPerimetro(double perimetro)
+    public void GetPerimetro()
     {
         double a = Math.PI;
-        return 2 * a * radio; 
+        Console.WriteLine(2 * a * this.Radio); 
     }
 }
