@@ -17,3 +17,7 @@ Luego, crea una clase “Smoothie” que contenga un nombre, un precio base y un
 Smoothie tiene los métodos:
 • AddIngredient(Ingrediente ing), que agrega un ingrediente a la lista de ingredientes. Un ingrediente no puede agregarse más de una vez.
 • GetTotalPrice(), que devuelva la suma del precio de todos los ingredientes de la lista más el precio base del smoothie
+• GetFullName(), que devuelva el nombre inicial del Smoothie mostrando también todos los ingredientes agregados. Ejemplo para un “Batido de frutilla” al cual se le agregan los ingredientes extra “Vainilla”, “Caramelo” y “Copo de chantilly”: “Batido de frutilla con vainilla, caramelo y copo de chantilly”
+
+Referencia: https://edabit.com/challenge/rYKtzcuCQ9FQ9t9pH
+
