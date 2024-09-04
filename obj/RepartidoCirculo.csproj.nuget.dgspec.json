@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj": {}
+    "C:\\Users\\Estudiante UCU\\Desktop\\POO-CSharp\\RepartidoCirculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj": {
+    "C:\\Users\\Estudiante UCU\\Desktop\\POO-CSharp\\RepartidoCirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj",
+        "projectUniqueName": "C:\\Users\\Estudiante UCU\\Desktop\\POO-CSharp\\RepartidoCirculo.csproj",
         "projectName": "RepartidoCirculo",
-        "projectPath": "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\RepartidoCirculo.csproj",
+        "projectPath": "C:\\Users\\Estudiante UCU\\Desktop\\POO-CSharp\\RepartidoCirculo.csproj",
         "packagesPath": "C:\\Users\\Estudiante UCU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudiante UCU\\Desktop\\RepartidoCirculo\\obj\\",
+        "outputPath": "C:\\Users\\Estudiante UCU\\Desktop\\POO-CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\NuGet\\NuGet.Config"
