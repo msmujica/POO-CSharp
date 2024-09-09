@@ -4,10 +4,12 @@ using RepartidoCirculo;
 using RepartidoCirculo.Ejercicio_2;
 
 /*
+                                    PRIMER EJERCICIO
 Circulo primer = new Circulo(5);
 primer.GetPerimetro();
-primer.GetArea();*/
+primer.GetArea();
 
+                                    SEGUNDO EJERCICIO
 Ingredientes frutilla = new Ingredientes("Frutilla", 5);
 Ingredientes leche = new Ingredientes("Leche", 5);
 
@@ -17,3 +19,5 @@ BatidoFrutilla.setAddIngredient(leche);
 
 BatidoFrutilla.getFullSmothie();
 Console.WriteLine(BatidoFrutilla.getFullPrice());
+*/
+

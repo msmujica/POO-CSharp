@@ -24,7 +24,7 @@ public class Smothie
     public Smothie(string name, int price)
     {
         this.SmothieName = name;
-        this.basePrice = price;
+        this.BasePrice = price;
     }
     public void setAddIngredient(Ingredientes ingrediente)
     {
